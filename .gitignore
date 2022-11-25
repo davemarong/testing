@@ -1,5 +1,5 @@
-**/prettierignore
+/.prettierignore
 /bro.js
 /test.js
-**/another
+/another.js
 /test2.js
