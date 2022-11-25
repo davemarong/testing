@@ -1,1 +1,4 @@
-/.prettierignore
+**/prettierignore
+/bro.js
+/test
+**/another
